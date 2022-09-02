@@ -1,0 +1,22 @@
+{
+  "name": "create-vue-scaff",
+  "version": "0.0.41",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.22"
+  },
+  "private": false,
+  "bin": {
+    "create-vue-scaff": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "create-vue-scaff-choices": "^0.0.41",
+    "create-vue-scaff-kit": "^0.0.41"
+  },
+  "gitHead": "d7030691365aa214280961d60baa1e43d2f60aa3"
+}

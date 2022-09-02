@@ -1,0 +1,17 @@
+{
+  "name": "create-vue-scaff-kit",
+  "version": "0.0.41",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.22"
+  },
+  "dependencies": {
+    "cac": "^6.7.12",
+    "chalk": "^4.1.2",
+    "download-git-repo": "^3.0.2",
+    "prompts": "^2.4.2"
+  },
+  "gitHead": "d7030691365aa214280961d60baa1e43d2f60aa3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "repo": "git add . && git commit -m 'update' && git push",
+    "push": "lerna publish --no-verify-access"
+  }
+}

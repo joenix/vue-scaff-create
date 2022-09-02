@@ -1,0 +1,11 @@
+{
+  "name": "create-vue-scaff-choices",
+  "version": "0.0.41",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.22"
+  },
+  "gitHead": "d7030691365aa214280961d60baa1e43d2f60aa3"
+}
